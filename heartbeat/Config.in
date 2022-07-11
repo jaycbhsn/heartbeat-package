@@ -1,0 +1,9 @@
+config BR2_PACKAGE_HEARTBEAT
+	bool "heartbeat"
+	
+	help
+	  A simple program to print the time after a defined interval.
+	  
+	  https://heartbeat.xyz
+	
+
