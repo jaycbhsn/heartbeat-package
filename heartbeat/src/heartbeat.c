@@ -5,7 +5,6 @@
 
 #define DEFAULT_TIME 	2
 
-
 int main(int argc, char **argv) {
     time_t t = time(NULL);
     struct tm tm;
