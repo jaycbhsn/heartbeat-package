@@ -2,7 +2,6 @@
 #include <unistd.h>
 #include <time.h>
 
-
 #define DEFAULT_TIME 	2
 
 int main(int argc, char **argv) {
